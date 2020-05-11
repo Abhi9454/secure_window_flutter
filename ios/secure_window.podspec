@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 A new flutter plugin project.
                        DESC
-  s.homepage         = 'https://github.com/abhi9454/securewindowFlutter'
+  s.homepage         = 'https://github.com/Abhi9454/secure_window_flutter'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Abhishek Mishra' => 'mishra.abhi8888@gmail.com' }
   s.source           = { :path => '.' }
